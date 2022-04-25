@@ -4,8 +4,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>522</x>
-      <y>198</y>
+      <x>504</x>
+      <y>180</y>
       <w>117</w>
       <h>36</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>81</y>
+      <x>495</x>
+      <y>63</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -26,8 +26,8 @@
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>513</x>
-      <y>18</y>
+      <x>495</x>
+      <y>0</y>
       <w>18</w>
       <h>18</h>
     </coordinates>
@@ -37,8 +37,8 @@
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>459</x>
-      <y>243</y>
+      <x>441</x>
+      <y>225</y>
       <w>135</w>
       <h>18</h>
     </coordinates>
@@ -49,8 +49,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>558</x>
-      <y>288</y>
+      <x>540</x>
+      <y>270</y>
       <w>63</w>
       <h>27</h>
     </coordinates>
@@ -61,8 +61,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>477</x>
-      <y>54</y>
+      <x>459</x>
+      <y>36</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -74,8 +74,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>747</x>
-      <y>243</y>
+      <x>729</x>
+      <y>225</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -87,8 +87,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>747</x>
-      <y>297</y>
+      <x>729</x>
+      <y>279</y>
       <w>108</w>
       <h>36</h>
     </coordinates>
@@ -99,8 +99,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>747</x>
-      <y>351</y>
+      <x>729</x>
+      <y>333</y>
       <w>108</w>
       <h>36</h>
     </coordinates>
@@ -112,8 +112,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>567</x>
-      <y>342</y>
+      <x>549</x>
+      <y>324</y>
       <w>54</w>
       <h>54</h>
     </coordinates>
@@ -123,8 +123,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>306</y>
+      <x>567</x>
+      <y>288</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -134,8 +134,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>360</y>
+      <x>594</x>
+      <y>342</y>
       <w>153</w>
       <h>27</h>
     </coordinates>
@@ -145,8 +145,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>450</x>
-      <y>108</y>
+      <x>432</x>
+      <y>90</y>
       <w>135</w>
       <h>36</h>
     </coordinates>
@@ -156,8 +156,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>432</x>
-      <y>153</y>
+      <x>414</x>
+      <y>135</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -167,8 +167,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>531</x>
-      <y>153</y>
+      <x>513</x>
+      <y>135</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -178,8 +178,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>477</x>
-      <y>135</y>
+      <x>459</x>
+      <y>117</y>
       <w>27</w>
       <h>36</h>
     </coordinates>
@@ -189,8 +189,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>558</x>
-      <y>135</y>
+      <x>540</x>
+      <y>117</y>
       <w>27</w>
       <h>36</h>
     </coordinates>
@@ -200,8 +200,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>558</x>
-      <y>180</y>
+      <x>540</x>
+      <y>162</y>
       <w>27</w>
       <h>36</h>
     </coordinates>
@@ -211,8 +211,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>558</x>
-      <y>225</y>
+      <x>540</x>
+      <y>207</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -222,8 +222,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>477</x>
-      <y>180</y>
+      <x>459</x>
+      <y>162</y>
       <w>27</w>
       <h>90</h>
     </coordinates>
@@ -233,8 +233,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>522</x>
-      <y>243</y>
+      <x>504</x>
+      <y>225</y>
       <w>90</w>
       <h>63</h>
     </coordinates>
@@ -244,8 +244,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>387</y>
+      <x>567</x>
+      <y>369</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -255,8 +255,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>567</x>
-      <y>423</y>
+      <x>549</x>
+      <y>405</y>
       <w>54</w>
       <h>54</h>
     </coordinates>
@@ -266,8 +266,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>441</y>
+      <x>594</x>
+      <y>423</y>
       <w>153</w>
       <h>27</h>
     </coordinates>
@@ -277,8 +277,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>747</x>
-      <y>432</y>
+      <x>729</x>
+      <y>414</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -290,8 +290,8 @@ bg=blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>783</x>
-      <y>270</y>
+      <x>765</x>
+      <y>252</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -301,8 +301,8 @@ bg=blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>783</x>
-      <y>324</y>
+      <x>765</x>
+      <y>306</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -312,8 +312,8 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>549</x>
-      <y>504</y>
+      <x>531</x>
+      <y>486</y>
       <w>108</w>
       <h>36</h>
     </coordinates>
@@ -323,8 +323,8 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
-      <y>567</y>
+      <x>522</x>
+      <y>549</y>
       <w>126</w>
       <h>36</h>
     </coordinates>
@@ -335,8 +335,8 @@ Sens horaire</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>468</y>
+      <x>567</x>
+      <y>450</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -346,8 +346,8 @@ Sens horaire</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>531</y>
+      <x>567</x>
+      <y>513</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -357,8 +357,8 @@ Sens horaire</panel_attributes>
   <element>
     <id>UMLTimer</id>
     <coordinates>
-      <x>738</x>
-      <y>108</y>
+      <x>720</x>
+      <y>90</y>
       <w>72</w>
       <h>72</h>
     </coordinates>
@@ -368,8 +368,8 @@ Sens horaire</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>495</x>
-      <y>288</y>
+      <x>477</x>
+      <y>270</y>
       <w>63</w>
       <h>27</h>
     </coordinates>
@@ -380,8 +380,8 @@ bg=pink</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>432</x>
-      <y>288</y>
+      <x>414</x>
+      <y>270</y>
       <w>63</w>
       <h>27</h>
     </coordinates>
@@ -392,8 +392,8 @@ bg=pink</panel_attributes>
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>432</x>
-      <y>315</y>
+      <x>414</x>
+      <y>297</y>
       <w>126</w>
       <h>18</h>
     </coordinates>
@@ -404,8 +404,8 @@ bg=pink</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>486</x>
-      <y>315</y>
+      <x>468</x>
+      <y>297</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -415,8 +415,8 @@ bg=pink</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>522</x>
-      <y>243</y>
+      <x>504</x>
+      <y>225</y>
       <w>27</w>
       <h>63</h>
     </coordinates>
@@ -426,8 +426,8 @@ bg=pink</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>459</x>
-      <y>243</y>
+      <x>441</x>
+      <y>225</y>
       <w>90</w>
       <h>63</h>
     </coordinates>
@@ -437,8 +437,8 @@ bg=pink</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>468</x>
-      <y>342</y>
+      <x>450</x>
+      <y>324</y>
       <w>54</w>
       <h>54</h>
     </coordinates>
@@ -448,8 +448,8 @@ bg=pink</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>414</x>
-      <y>360</y>
+      <x>396</x>
+      <y>342</y>
       <w>72</w>
       <h>27</h>
     </coordinates>
@@ -459,8 +459,8 @@ bg=pink</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>324</x>
-      <y>342</y>
+      <x>306</x>
+      <y>324</y>
       <w>99</w>
       <h>45</h>
     </coordinates>
@@ -472,8 +472,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>540</y>
+      <x>567</x>
+      <y>522</y>
       <w>144</w>
       <h>72</h>
     </coordinates>
@@ -484,8 +484,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>567</x>
-      <y>630</y>
+      <x>549</x>
+      <y>612</y>
       <w>54</w>
       <h>54</h>
     </coordinates>
@@ -495,8 +495,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>594</y>
+      <x>567</x>
+      <y>576</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -506,8 +506,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>486</x>
-      <y>387</y>
+      <x>468</x>
+      <y>369</y>
       <w>99</w>
       <h>288</h>
     </coordinates>
@@ -517,8 +517,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>27</y>
+      <x>495</x>
+      <y>9</y>
       <w>27</w>
       <h>45</h>
     </coordinates>
@@ -528,8 +528,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
-      <y>684</y>
+      <x>522</x>
+      <y>666</y>
       <w>117</w>
       <h>36</h>
     </coordinates>
@@ -540,8 +540,8 @@ un chaudron</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>567</x>
-      <y>720</y>
+      <x>549</x>
+      <y>702</y>
       <w>54</w>
       <h>54</h>
     </coordinates>
@@ -551,8 +551,8 @@ un chaudron</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>747</x>
-      <y>729</y>
+      <x>729</x>
+      <y>711</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -563,8 +563,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>738</y>
+      <x>594</x>
+      <y>720</y>
       <w>153</w>
       <h>27</h>
     </coordinates>
@@ -574,8 +574,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>765</y>
+      <x>567</x>
+      <y>747</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -585,8 +585,8 @@ personne</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
-      <y>801</y>
+      <x>522</x>
+      <y>783</y>
       <w>126</w>
       <h>36</h>
     </coordinates>
@@ -597,8 +597,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>774</y>
+      <x>567</x>
+      <y>756</y>
       <w>144</w>
       <h>72</h>
     </coordinates>
@@ -609,8 +609,8 @@ personne</panel_attributes>
   <element>
     <id>UMLTimer</id>
     <coordinates>
-      <x>738</x>
-      <y>864</y>
+      <x>720</x>
+      <y>846</y>
       <w>54</w>
       <h>72</h>
     </coordinates>
@@ -620,8 +620,8 @@ personne</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
-      <y>864</y>
+      <x>522</x>
+      <y>846</y>
       <w>126</w>
       <h>36</h>
     </coordinates>
@@ -631,8 +631,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>828</y>
+      <x>567</x>
+      <y>810</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -642,8 +642,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>657</x>
-      <y>873</y>
+      <x>639</x>
+      <y>855</y>
       <w>108</w>
       <h>27</h>
     </coordinates>
@@ -653,8 +653,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
-      <y>117</y>
+      <x>558</x>
+      <y>99</y>
       <w>198</w>
       <h>27</h>
     </coordinates>
@@ -664,8 +664,8 @@ personne</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
-      <y>891</y>
+      <x>567</x>
+      <y>873</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -675,8 +675,8 @@ personne</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>585</x>
-      <y>927</y>
+      <x>567</x>
+      <y>909</y>
       <w>18</w>
       <h>18</h>
     </coordinates>
