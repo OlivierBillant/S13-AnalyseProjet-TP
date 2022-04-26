@@ -4,8 +4,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>370</x>
-      <y>160</y>
+      <x>120</x>
+      <y>70</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>370</x>
-      <y>410</y>
+      <x>120</x>
+      <y>320</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -26,8 +26,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>630</x>
-      <y>230</y>
+      <x>380</x>
+      <y>140</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -38,8 +38,8 @@ Ouverte</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>470</x>
-      <y>290</y>
+      <x>220</x>
+      <y>200</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -49,19 +49,8 @@ Ouverte</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>390</x>
-      <y>190</y>
-      <w>30</w>
-      <h>240</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>430</x>
-      <y>190</y>
+      <x>180</x>
+      <y>100</y>
       <w>30</w>
       <h>240</h>
     </coordinates>
@@ -71,8 +60,8 @@ Ouverte</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>170</y>
+      <x>210</x>
+      <y>80</y>
       <w>80</w>
       <h>140</h>
     </coordinates>
@@ -82,8 +71,8 @@ Ouverte</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>240</y>
+      <x>310</x>
+      <y>150</y>
       <w>90</w>
       <h>90</h>
     </coordinates>
@@ -93,8 +82,8 @@ Ouverte</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>320</y>
+      <x>210</x>
+      <y>230</y>
       <w>80</w>
       <h>130</h>
     </coordinates>
@@ -104,8 +93,8 @@ Ouverte</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>230</y>
+      <x>310</x>
+      <y>140</y>
       <w>90</w>
       <h>90</h>
     </coordinates>
@@ -115,8 +104,8 @@ Ouverte</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>630</x>
-      <y>340</y>
+      <x>380</x>
+      <y>250</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -127,8 +116,8 @@ Fermée</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>300</y>
+      <x>310</x>
+      <y>210</y>
       <w>90</w>
       <h>80</h>
     </coordinates>
@@ -138,8 +127,8 @@ Fermée</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>310</y>
+      <x>310</x>
+      <y>220</y>
       <w>90</w>
       <h>80</h>
     </coordinates>
@@ -149,8 +138,8 @@ Fermée</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>190</y>
+      <x>210</x>
+      <y>100</y>
       <w>70</w>
       <h>120</h>
     </coordinates>
@@ -158,10 +147,22 @@ Fermée</panel_attributes>
     <additional_attributes>10.0;10.0;50.0;100.0</additional_attributes>
   </element>
   <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>110</x>
+      <y>50</y>
+      <w>380</w>
+      <h>320</h>
+    </coordinates>
+    <panel_attributes>Porte
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>320</y>
+      <x>210</x>
+      <y>230</y>
       <w>70</w>
       <h>110</h>
     </coordinates>
@@ -169,15 +170,281 @@ Fermée</panel_attributes>
     <additional_attributes>10.0;90.0;50.0;10.0</additional_attributes>
   </element>
   <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>520</x>
+      <y>70</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Ouverte</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>520</x>
+      <y>320</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Fermée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>740</x>
+      <y>140</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Vérouillée
+Ouverte</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>100</y>
+      <w>30</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>580</x>
+      <y>100</y>
+      <w>30</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;220.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>610</x>
+      <y>70</y>
+      <w>150</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>130.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>610</x>
+      <y>220</y>
+      <w>150</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>740</x>
+      <y>210</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Vérouillée
+Fermée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>610</x>
+      <y>80</y>
+      <w>150</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;90.0</additional_attributes>
+  </element>
+  <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>360</x>
-      <y>150</y>
+      <x>510</x>
+      <y>50</y>
       <w>380</w>
-      <h>310</h>
+      <h>320</h>
     </coordinates>
     <panel_attributes>Porte
 valign=top</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>100</y>
+      <w>30</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>530</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;70.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>510</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>70.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>110</x>
+      <y>390</y>
+      <w>310</w>
+      <h>440</h>
+    </coordinates>
+    <panel_attributes>Porte
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>160</x>
+      <y>520</y>
+      <w>70</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Vérouillée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>290</x>
+      <y>520</y>
+      <w>80</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Dévérouillée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>160</x>
+      <y>720</y>
+      <w>70</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Vérouillée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>290</x>
+      <y>720</y>
+      <w>80</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Dévérouillée</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>140</x>
+      <y>640</y>
+      <w>250</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Fermée
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>140</x>
+      <y>440</y>
+      <w>250</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Ouverte
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>710</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>70.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>730</y>
+      <w>90</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;70.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>340</x>
+      <y>550</y>
+      <w>30</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;170.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>310</x>
+      <y>550</y>
+      <w>30</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
   </element>
 </diagram>
