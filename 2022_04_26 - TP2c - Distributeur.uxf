@@ -5,8 +5,8 @@
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>154</x>
-      <y>14</y>
+      <x>140</x>
+      <y>28</y>
       <w>14</w>
       <h>14</h>
     </coordinates>
@@ -16,8 +16,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>154</x>
-      <y>21</y>
+      <x>140</x>
+      <y>35</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -27,8 +27,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>119</x>
-      <y>49</y>
+      <x>105</x>
+      <y>63</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -38,8 +38,8 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>119</x>
-      <y>98</y>
+      <x>105</x>
+      <y>112</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -50,8 +50,8 @@ solde</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>140</y>
+      <x>56</x>
+      <y>154</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -61,8 +61,8 @@ solde</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>168</x>
-      <y>140</y>
+      <x>154</x>
+      <y>154</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -72,8 +72,8 @@ solde</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>196</x>
-      <y>105</y>
+      <x>182</x>
+      <y>119</y>
       <w>168</w>
       <h>63</h>
     </coordinates>
@@ -84,8 +84,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>154</x>
-      <y>70</y>
+      <x>140</x>
+      <y>84</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -95,8 +95,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>112</x>
-      <y>119</y>
+      <x>98</x>
+      <y>133</y>
       <w>63</w>
       <h>35</h>
     </coordinates>
@@ -106,8 +106,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>154</x>
-      <y>119</y>
+      <x>140</x>
+      <y>133</y>
       <w>63</w>
       <h>35</h>
     </coordinates>
@@ -117,8 +117,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>161</y>
+      <x>91</x>
+      <y>175</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -128,8 +128,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>189</y>
+      <x>56</x>
+      <y>203</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -139,8 +139,8 @@ Introduire pièce</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>385</y>
+      <x>56</x>
+      <y>399</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -151,8 +151,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>357</y>
+      <x>91</x>
+      <y>371</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -162,8 +162,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>70</x>
-      <y>420</y>
+      <x>56</x>
+      <y>434</y>
       <w>175</w>
       <h>14</h>
     </coordinates>
@@ -174,8 +174,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>161</x>
-      <y>385</y>
+      <x>147</x>
+      <y>399</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -186,30 +186,30 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>406</y>
-      <w>21</w>
-      <h>35</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>196</x>
-      <y>406</y>
-      <w>21</w>
-      <h>35</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>147</x>
+      <x>91</x>
       <y>420</y>
+      <w>21</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>182</x>
+      <y>420</y>
+      <w>21</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>133</x>
+      <y>434</y>
       <w>21</w>
       <h>49</h>
     </coordinates>
@@ -219,8 +219,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>182</x>
-      <y>525</y>
+      <x>168</x>
+      <y>539</y>
       <w>14</w>
       <h>14</h>
     </coordinates>
@@ -230,8 +230,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>238</y>
+      <x>56</x>
+      <y>252</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -241,8 +241,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>210</y>
+      <x>91</x>
+      <y>224</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -252,8 +252,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>259</y>
+      <x>91</x>
+      <y>273</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -263,8 +263,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>287</y>
+      <x>56</x>
+      <y>301</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -274,8 +274,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>105</x>
-      <y>308</y>
+      <x>91</x>
+      <y>322</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -285,8 +285,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>70</x>
-      <y>336</y>
+      <x>56</x>
+      <y>350</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -296,8 +296,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>105</x>
-      <y>455</y>
+      <x>91</x>
+      <y>469</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -307,8 +307,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>140</x>
-      <y>476</y>
+      <x>126</x>
+      <y>490</y>
       <w>21</w>
       <h>35</h>
     </coordinates>
@@ -318,8 +318,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>105</x>
-      <y>490</y>
+      <x>91</x>
+      <y>504</y>
       <w>175</w>
       <h>14</h>
     </coordinates>
@@ -330,8 +330,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>196</x>
-      <y>455</y>
+      <x>182</x>
+      <y>469</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -342,8 +342,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>231</x>
-      <y>476</y>
+      <x>217</x>
+      <y>490</y>
       <w>21</w>
       <h>35</h>
     </coordinates>
@@ -353,8 +353,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>182</x>
-      <y>490</y>
+      <x>168</x>
+      <y>504</y>
       <w>21</w>
       <h>49</h>
     </coordinates>
@@ -364,8 +364,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>238</x>
-      <y>385</y>
+      <x>224</x>
+      <y>399</y>
       <w>98</w>
       <h>35</h>
     </coordinates>
@@ -377,8 +377,8 @@ Vérification
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>525</x>
-      <y>49</y>
+      <x>511</x>
+      <y>63</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -389,8 +389,8 @@ Vérification
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>49</y>
+      <x>588</x>
+      <y>63</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -400,8 +400,8 @@ Vérification
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>574</x>
-      <y>14</y>
+      <x>560</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -412,8 +412,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>651</x>
-      <y>14</y>
+      <x>637</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -424,8 +424,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>805</x>
-      <y>14</y>
+      <x>791</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -435,8 +435,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>882</x>
-      <y>14</y>
+      <x>868</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -446,8 +446,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>497</x>
-      <y>14</y>
+      <x>483</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -458,8 +458,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>42</y>
+      <x>518</x>
+      <y>56</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -470,8 +470,8 @@ Stock Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>63</y>
+      <x>518</x>
+      <y>77</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -482,8 +482,8 @@ True</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>525</x>
-      <y>126</y>
+      <x>511</x>
+      <y>140</y>
       <w>14</w>
       <h>119</h>
     </coordinates>
@@ -493,8 +493,8 @@ True</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>679</x>
-      <y>126</y>
+      <x>665</x>
+      <y>140</y>
       <w>14</w>
       <h>119</h>
     </coordinates>
@@ -504,8 +504,8 @@ True</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>119</y>
+      <x>518</x>
+      <y>133</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -516,8 +516,8 @@ Verif solde</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>140</y>
+      <x>588</x>
+      <y>154</y>
       <w>14</w>
       <h>21</h>
     </coordinates>
@@ -527,8 +527,8 @@ Verif solde</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>133</y>
+      <x>595</x>
+      <y>147</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -539,8 +539,8 @@ GetPrix</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>147</y>
+      <x>595</x>
+      <y>161</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -551,8 +551,8 @@ Prix</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>161</y>
+      <x>518</x>
+      <y>175</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -563,8 +563,8 @@ Solde insuffisant</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>434</x>
-      <y>105</y>
+      <x>420</x>
+      <y>119</y>
       <w>273</w>
       <h>105</h>
     </coordinates>
@@ -574,8 +574,8 @@ Solde insuffisant</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>182</y>
+      <x>518</x>
+      <y>196</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -586,8 +586,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>210</y>
+      <x>518</x>
+      <y>224</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -598,8 +598,8 @@ Solde suffisant</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>525</x>
-      <y>280</y>
+      <x>511</x>
+      <y>294</y>
       <w>14</w>
       <h>245</h>
     </coordinates>
@@ -609,8 +609,8 @@ Solde suffisant</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>385</y>
+      <x>588</x>
+      <y>399</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -620,8 +620,8 @@ Solde suffisant</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>833</x>
-      <y>385</y>
+      <x>819</x>
+      <y>399</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -631,8 +631,8 @@ Solde suffisant</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>378</y>
+      <x>518</x>
+      <y>392</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -644,8 +644,8 @@ Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>378</y>
+      <x>595</x>
+      <y>392</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -656,8 +656,8 @@ Stock Gobelet</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>910</x>
-      <y>462</y>
+      <x>896</x>
+      <y>476</y>
       <w>14</w>
       <h>56</h>
     </coordinates>
@@ -667,8 +667,8 @@ Stock Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>427</y>
+      <x>518</x>
+      <y>441</y>
       <w>315</w>
       <h>28</h>
     </coordinates>
@@ -679,8 +679,8 @@ if False : FatalError - Arret service</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>462</y>
+      <x>518</x>
+      <y>476</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -692,8 +692,8 @@ Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>448</y>
+      <x>588</x>
+      <y>462</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -703,8 +703,8 @@ Touillette</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>462</y>
+      <x>595</x>
+      <y>476</y>
       <w>315</w>
       <h>28</h>
     </coordinates>
@@ -715,8 +715,8 @@ Stock Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>490</y>
+      <x>518</x>
+      <y>504</y>
       <w>392</w>
       <h>28</h>
     </coordinates>
@@ -727,8 +727,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>728</x>
-      <y>14</y>
+      <x>714</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -738,8 +738,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>280</y>
+      <x>588</x>
+      <y>294</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -749,8 +749,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>273</y>
+      <x>518</x>
+      <y>287</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -762,8 +762,8 @@ sucre</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>756</x>
-      <y>280</y>
+      <x>742</x>
+      <y>294</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -773,8 +773,8 @@ sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>273</y>
+      <x>595</x>
+      <y>287</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -785,8 +785,8 @@ Stock sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>329</y>
+      <x>518</x>
+      <y>343</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -797,8 +797,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>602</x>
-      <y>553</y>
+      <x>588</x>
+      <y>567</y>
       <w>14</w>
       <h>287</h>
     </coordinates>
@@ -808,8 +808,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>756</x>
-      <y>553</y>
+      <x>742</x>
+      <y>567</y>
       <w>14</w>
       <h>56</h>
     </coordinates>
@@ -819,8 +819,8 @@ if False : Error - message erreur Touillette</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>553</y>
+      <x>595</x>
+      <y>567</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -831,8 +831,8 @@ Ajout sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>588</y>
+      <x>595</x>
+      <y>602</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -843,8 +843,8 @@ Sucre</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>595</x>
-      <y>532</y>
+      <x>581</x>
+      <y>546</y>
       <w>182</w>
       <h>84</h>
     </coordinates>
@@ -854,8 +854,8 @@ Sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>567</y>
+      <x>595</x>
+      <y>581</y>
       <w>161</w>
       <h>28</h>
     </coordinates>
@@ -866,8 +866,8 @@ Stock sucre</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>833</x>
-      <y>630</y>
+      <x>819</x>
+      <y>644</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -877,8 +877,8 @@ Stock sucre</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>525</x>
-      <y>532</y>
+      <x>511</x>
+      <y>546</y>
       <w>14</w>
       <h>308</h>
     </coordinates>
@@ -889,8 +889,8 @@ Stock sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>546</y>
+      <x>518</x>
+      <y>560</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -902,8 +902,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>630</y>
+      <x>595</x>
+      <y>644</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -914,8 +914,8 @@ Get Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>665</y>
+      <x>595</x>
+      <y>679</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -926,8 +926,8 @@ if BesoinGobelet True : return Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>728</y>
+      <x>595</x>
+      <y>742</y>
       <w>315</w>
       <h>28</h>
     </coordinates>
@@ -938,8 +938,8 @@ Get Touilette</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>763</y>
+      <x>595</x>
+      <y>777</y>
       <w>315</w>
       <h>28</h>
     </coordinates>
@@ -950,8 +950,8 @@ if BesoinTouilette True : return Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>910</x>
-      <y>728</y>
+      <x>896</x>
+      <y>742</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -961,8 +961,8 @@ if BesoinTouilette True : return Touillette</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>420</x>
-      <y>14</y>
+      <x>406</x>
+      <y>28</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -973,8 +973,8 @@ bg=Blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>672</y>
+      <x>441</x>
+      <y>686</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -985,8 +985,8 @@ Progression</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>56</y>
+      <x>441</x>
+      <y>70</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -998,8 +998,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>273</y>
+      <x>441</x>
+      <y>287</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -1011,8 +1011,8 @@ Sucre</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>378</y>
+      <x>441</x>
+      <y>392</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -1024,8 +1024,8 @@ Gobelet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>462</y>
+      <x>441</x>
+      <y>476</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -1037,8 +1037,8 @@ Touillette</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>350</y>
+      <x>441</x>
+      <y>364</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -1050,8 +1050,8 @@ True</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>441</y>
+      <x>441</x>
+      <y>455</y>
       <w>84</w>
       <h>35</h>
     </coordinates>
@@ -1063,8 +1063,8 @@ True</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>812</y>
+      <x>441</x>
+      <y>826</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -1075,8 +1075,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>532</x>
-      <y>812</y>
+      <x>518</x>
+      <y>826</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -1087,8 +1087,8 @@ Boisson</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>350</x>
-      <y>525</y>
+      <x>336</x>
+      <y>539</y>
       <w>588</w>
       <h>280</h>
     </coordinates>
@@ -1098,8 +1098,8 @@ Boisson</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>161</y>
+      <x>441</x>
+      <y>175</y>
       <w>91</w>
       <h>28</h>
     </coordinates>
@@ -1110,8 +1110,8 @@ Solde insuffisant</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>455</x>
-      <y>182</y>
+      <x>441</x>
+      <y>196</y>
       <w>84</w>
       <h>28</h>
     </coordinates>
@@ -1122,8 +1122,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>665</y>
+      <x>434</x>
+      <y>679</y>
       <w>14</w>
       <h>42</h>
     </coordinates>
@@ -1134,8 +1134,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>343</y>
+      <x>434</x>
+      <y>357</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -1146,8 +1146,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>434</y>
+      <x>434</x>
+      <y>448</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -1158,8 +1158,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>259</y>
+      <x>434</x>
+      <y>273</y>
       <w>14</w>
       <h>70</h>
     </coordinates>
@@ -1170,8 +1170,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>812</y>
+      <x>434</x>
+      <y>826</y>
       <w>14</w>
       <h>28</h>
     </coordinates>
@@ -1182,10 +1182,10 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>140</y>
+      <x>434</x>
+      <y>154</y>
       <w>14</w>
-      <h>70</h>
+      <h>98</h>
     </coordinates>
     <panel_attributes>bg=blue
 </panel_attributes>
@@ -1194,8 +1194,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>448</x>
-      <y>42</y>
+      <x>434</x>
+      <y>56</y>
       <w>14</w>
       <h>56</h>
     </coordinates>
@@ -1206,8 +1206,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>756</x>
-      <y>28</y>
+      <x>742</x>
+      <y>42</y>
       <w>21</w>
       <h>266</h>
     </coordinates>
@@ -1217,8 +1217,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>833</x>
-      <y>28</y>
+      <x>819</x>
+      <y>42</y>
       <w>21</w>
       <h>371</h>
     </coordinates>
@@ -1228,8 +1228,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>910</x>
-      <y>28</y>
+      <x>896</x>
+      <y>42</y>
       <w>21</w>
       <h>448</h>
     </coordinates>
@@ -1239,8 +1239,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>910</x>
-      <y>511</y>
+      <x>896</x>
+      <y>525</y>
       <w>21</w>
       <h>231</h>
     </coordinates>
@@ -1250,8 +1250,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>833</x>
-      <y>448</y>
+      <x>819</x>
+      <y>462</y>
       <w>21</w>
       <h>196</h>
     </coordinates>
@@ -1261,8 +1261,8 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>756</x>
-      <y>343</y>
+      <x>742</x>
+      <y>357</y>
       <w>21</w>
       <h>224</h>
     </coordinates>
@@ -1272,12 +1272,14 @@ Ajout pièce</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>448</x>
-      <y>28</y>
-      <w>21</w>
-      <h>826</h>
+      <x>441</x>
+      <y>224</y>
+      <w>84</w>
+      <h>35</h>
     </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;1160.0</additional_attributes>
+    <panel_attributes>lt=&lt;-
+Rendre 
+monnaie</panel_attributes>
+    <additional_attributes>10.0;20.0;100.0;20.0</additional_attributes>
   </element>
 </diagram>
